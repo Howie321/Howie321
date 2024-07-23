@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Xing</h1>
-<h3 align="center">I am a university school student.</h3>
+<h3 align="center">I am a university student.</h3>
 
 - 🔭 I’m currently working on **Idle Games**
 
