@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Xing</h1>
 <h3 align="center">I am a university student.</h3>
 
-- 🔭 I’m currently working on **Open CV Projects**
+- 🔭 I’m currently working on a **Game Project**
 
 - 🌱 I’m currently learning **C#**
 
