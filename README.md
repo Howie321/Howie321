@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Open CV Projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **123maxxing@gmail.com**
 
